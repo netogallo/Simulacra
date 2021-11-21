@@ -1,0 +1,3 @@
+[submodule "QaTharina"]
+	path = QaTharina
+	url = git@github.com:netogallo/QaTharina.git
