@@ -1,3 +1,6 @@
 [submodule "QaTharina"]
 	path = QaTharina
 	url = git@github.com:netogallo/QaTharina.git
+[submodule "dependencies/matrix-client-haskell"]
+	path = dependencies/matrix-client-haskell
+	url = git@github.com:netogallo/matrix-client-haskell.git

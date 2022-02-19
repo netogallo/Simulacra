@@ -1,1 +1,1 @@
-packages: QaTharina, Simulacra
+packages: QaTharina, Simulacra, dependencies/matrix-client-haskell/matrix-client
