@@ -1,0 +1,6 @@
+cradle:
+  cabal:
+    - path: "Simulacra"
+      component: "Simulacra"
+    - path: "QaTharina/src"
+      component: "lib:QaTharina"
